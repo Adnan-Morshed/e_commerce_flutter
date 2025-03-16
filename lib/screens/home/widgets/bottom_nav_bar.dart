@@ -12,7 +12,7 @@ class FBottomBar extends StatefulWidget {
 
   @override
   State<FBottomBar> createState() => _FBottomBarState();
-}
+}//wijrguaerkmgaoejitghkjdfkv'jhsu
 
 class _FBottomBarState extends State<FBottomBar> {
   @override
